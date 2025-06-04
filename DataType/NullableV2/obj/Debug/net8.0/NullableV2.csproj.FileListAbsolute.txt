@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.exe
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.deps.json
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.runtimeconfig.json
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.dll
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.pdb
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.dll
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\refint\NullableV2.dll
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.pdb
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\ref\NullableV2.dll
