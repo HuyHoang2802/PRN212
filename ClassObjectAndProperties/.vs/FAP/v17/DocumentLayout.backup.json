@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501F3EFE-729C-4723-8752-E466EB961FC4}|StudentManagerVFinalFantacy\\StudentManagerVFinalFantacy.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagervfinalfantacy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501F3EFE-729C-4723-8752-E466EB961FC4}|StudentManagerVFinalFantacy\\StudentManagerVFinalFantacy.csproj|solutionrelative:studentmanagervfinalfantacy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501F3EFE-729C-4723-8752-E466EB961FC4}|StudentManagerVFinalFantacy\\StudentManagerVFinalFantacy.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagervfinalfantacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501F3EFE-729C-4723-8752-E466EB961FC4}|StudentManagerVFinalFantacy\\StudentManagerVFinalFantacy.csproj|solutionrelative:studentmanagervfinalfantacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60848B2C-07CB-479E-BB5F-57759A4CD875}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv11propertyautobackingfield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60848B2C-07CB-479E-BB5F-57759A4CD875}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|solutionrelative:studentmanagerv11propertyautobackingfield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60848B2C-07CB-479E-BB5F-57759A4CD875}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv11propertyautobackingfield\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60848B2C-07CB-479E-BB5F-57759A4CD875}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|solutionrelative:studentmanagerv11propertyautobackingfield\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CD3C2-2DA9-4686-A421-977590825AE2}|StudentManagerV10PropertyHotK\\StudentManagerV10PropertyHotK.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv10propertyhotk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CD3C2-2DA9-4686-A421-977590825AE2}|StudentManagerV10PropertyHotK\\StudentManagerV10PropertyHotK.csproj|solutionrelative:studentmanagerv10propertyhotk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CD3C2-2DA9-4686-A421-977590825AE2}|StudentManagerV10PropertyHotK\\StudentManagerV10PropertyHotK.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv10propertyhotk\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CD3C2-2DA9-4686-A421-977590825AE2}|StudentManagerV10PropertyHotK\\StudentManagerV10PropertyHotK.csproj|solutionrelative:studentmanagerv10propertyhotk\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30F2028-17CF-4203-8D16-15E7ABCCD409}|StudentManagerV9Properties\\StudentManagerV9Properties.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv9properties\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30F2028-17CF-4203-8D16-15E7ABCCD409}|StudentManagerV9Properties\\StudentManagerV9Properties.csproj|solutionrelative:studentmanagerv9properties\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30F2028-17CF-4203-8D16-15E7ABCCD409}|StudentManagerV9Properties\\StudentManagerV9Properties.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv9properties\\studentmanagerv9properties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B30F2028-17CF-4203-8D16-15E7ABCCD409}|StudentManagerV9Properties\\StudentManagerV9Properties.csproj|solutionrelative:studentmanagerv9properties\\studentmanagerv9properties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30F2028-17CF-4203-8D16-15E7ABCCD409}|StudentManagerV9Properties\\StudentManagerV9Properties.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv9properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30F2028-17CF-4203-8D16-15E7ABCCD409}|StudentManagerV9Properties\\StudentManagerV9Properties.csproj|solutionrelative:studentmanagerv9properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1C9C4A-EE26-4109-AA3F-93D3B41335E7}|StudentManagerV8PropertyMerge\\StudentManagerV8PropertyMerge.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv8propertymerge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1C9C4A-EE26-4109-AA3F-93D3B41335E7}|StudentManagerV8PropertyMerge\\StudentManagerV8PropertyMerge.csproj|solutionrelative:studentmanagerv8propertymerge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1C9C4A-EE26-4109-AA3F-93D3B41335E7}|StudentManagerV8PropertyMerge\\StudentManagerV8PropertyMerge.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv8propertymerge\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1C9C4A-EE26-4109-AA3F-93D3B41335E7}|StudentManagerV8PropertyMerge\\StudentManagerV8PropertyMerge.csproj|solutionrelative:studentmanagerv8propertymerge\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5ACD62-BACF-4A0B-B64D-862D48C34811}|StudenManagerV5MuitipleConstructors\\StudenManagerV5MuitipleConstructors.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studenmanagerv5muitipleconstructors\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5ACD62-BACF-4A0B-B64D-862D48C34811}|StudenManagerV5MuitipleConstructors\\StudenManagerV5MuitipleConstructors.csproj|solutionrelative:studenmanagerv5muitipleconstructors\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18FC2F9-0A71-4D8D-84BB-9956A271A3F4}|StudentManagerV6Property\\StudentManagerV6Property.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv6property\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18FC2F9-0A71-4D8D-84BB-9956A271A3F4}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB80F75-0A9A-4795-AFF0-ECA15CDD8326}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB80F75-0A9A-4795-AFF0-ECA15CDD8326}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB80F75-0A9A-4795-AFF0-ECA15CDD8326}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv7encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB80F75-0A9A-4795-AFF0-ECA15CDD8326}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18FC2F9-0A71-4D8D-84BB-9956A271A3F4}|StudentManagerV6Property\\StudentManagerV6Property.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18FC2F9-0A71-4D8D-84BB-9956A271A3F4}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5ACD62-BACF-4A0B-B64D-862D48C34811}|StudenManagerV5MuitipleConstructors\\StudenManagerV5MuitipleConstructors.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studenmanagerv5muitipleconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5ACD62-BACF-4A0B-B64D-862D48C34811}|StudenManagerV5MuitipleConstructors\\StudenManagerV5MuitipleConstructors.csproj|solutionrelative:studenmanagerv5muitipleconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3AB70B-1A13-41A2-A68C-1BC58D4F60AE}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv4emptyconstructor\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3AB70B-1A13-41A2-A68C-1BC58D4F60AE}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|solutionrelative:studentmanagerv4emptyconstructor\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3AB70B-1A13-41A2-A68C-1BC58D4F60AE}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|d:\\prn212\\csharp\\session02-language\\fap\\studentmanagerv4emptyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3AB70B-1A13-41A2-A68C-1BC58D4F60AE}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|solutionrelative:studentmanagerv4emptyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerVFinalFantacy\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerVFinalFantacy\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerVFinalFantacy\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerVFinalFantacy\\Entities\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:21:20.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerVFinalFantacy\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerVFinalFantacy\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerVFinalFantacy\\Program.cs",
+              "RelativeToolTip": "StudentManagerVFinalFantacy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:20:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:54:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "RelativeToolTip": "StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:53:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV10PropertyHotK\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV10PropertyHotK\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV10PropertyHotK\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV10PropertyHotK\\Entities\\Student.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:37:58.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV10PropertyHotK\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV10PropertyHotK\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV10PropertyHotK\\Program.cs",
+              "RelativeToolTip": "StudentManagerV10PropertyHotK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:36:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV9Properties\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV9Properties\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV9Properties\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV9Properties\\Entities\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:29:58.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentManagerV9Properties.csproj",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV9Properties\\StudentManagerV9Properties.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV9Properties\\StudentManagerV9Properties.csproj",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV9Properties\\StudentManagerV9Properties.csproj",
+              "RelativeToolTip": "StudentManagerV9Properties\\StudentManagerV9Properties.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T05:29:22.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV9Properties\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV9Properties\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV9Properties\\Program.cs",
+              "RelativeToolTip": "StudentManagerV9Properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:28:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV8PropertyMerge\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV8PropertyMerge\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV8PropertyMerge\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV8PropertyMerge\\Entities\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:31:10.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV8PropertyMerge\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV8PropertyMerge\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV8PropertyMerge\\Program.cs",
+              "RelativeToolTip": "StudentManagerV8PropertyMerge\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:30:33.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:28:49.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
+              "RelativeToolTip": "StudentManagerV7Encapsulation\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:28:18.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV6Property\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV6Property\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:09:40.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:09:11.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudenManagerV5MuitipleConstructors\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudenManagerV5MuitipleConstructors\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudenManagerV5MuitipleConstructors\\Entities\\Student.cs",
+              "RelativeToolTip": "StudenManagerV5MuitipleConstructors\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:06:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudenManagerV5MuitipleConstructors\\Program.cs",
+              "RelativeDocumentMoniker": "StudenManagerV5MuitipleConstructors\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudenManagerV5MuitipleConstructors\\Program.cs",
+              "RelativeToolTip": "StudenManagerV5MuitipleConstructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:05:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:55:21.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV4EmptyConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV4EmptyConstructor\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session02-Language\\FAP\\StudentManagerV4EmptyConstructor\\Program.cs",
+              "RelativeToolTip": "StudentManagerV4EmptyConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:54:52.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.exe
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.deps.json
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.runtimeconfig.json
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.dll
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.pdb
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.dll
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\refint\StudentManagerV3EmptyConstructor.dll
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.pdb
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\ref\StudentManagerV3EmptyConstructor.dll

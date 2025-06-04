@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.exe
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.deps.json
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.runtimeconfig.json
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.dll
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.pdb
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.dll
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\refint\StudentManagerV7Encapsulation.dll
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.pdb
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session02-Language\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\ref\StudentManagerV7Encapsulation.dll
